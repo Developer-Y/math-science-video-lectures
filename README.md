@@ -31,8 +31,28 @@ Please note this is collection of courses on Science and math, please do not add
   - Particle Physics 3: Supersymmetry and Grand Unification
   - String Theory
   - Cosmology and Black Holes
+- [Richard Feynman's Lectures on Physics](https://www.youtube.com/playlist?list=PL_6G_2_0gFDqFjq4gZbmDvJT4bnvnNwr-)
+- [ASTR 160: FRONTIERS AND CONTROVERSIES IN ASTROPHYSICS, Yale University](http://oyc.yale.edu/astronomy/astr-160)
+- [PHYS 200: FUNDAMENTALS OF PHYSICS I, Yale University](http://oyc.yale.edu/physics/phys-200)
+- [PHYS 201: FUNDAMENTALS OF PHYSICS II, Yale University](http://oyc.yale.edu/physics/phys-201)
+- [Physics 3A: Basic Physics (English), UC Irvine](http://ocw.uci.edu/courses/physics_3a_basic_physics.html)
+- [Physics 3B: Basic Physics II (English)](http://ocw.uci.edu/courses/physics_3b_basic_physics_ii.html)
+- [Physics 3C: Basic Physics III (English), UC Irvine](http://ocw.uci.edu/courses/physics_3c_basic_physics_iii.html)
+- [Physics 255: General Relativity, UC Irvine](http://ocw.uci.edu/courses/einsteins_general_relativity_and_gravitation.html)
+- [Physics 20B: Cosmology (English), UC Irvine](http://ocw.uci.edu/courses/physics_20b_cosmology.html)
 - [Physics 253: Quantum Field Theory Lectures by Sidney R. Coleman, Harvard University](https://www.physics.harvard.edu/events/videos/Phys253)
-- [LHC for String Theorists, Sunil Mukhi, Tata Institute of Fundamental Research, Mumbai](http://theory.tifr.res.in/~mukhi/Physics/LHC4ST/lhc4st.html)
-- [String Theory, Shiraz Minwalla, Tata Institute of Fundamental Research, Mumbai](http://theory.tifr.res.in/~minwalla/)
+- [Quantum Field Theory II, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/qft2/)
+- [LHC for String Theorists, Sunil Mukhi, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~mukhi/Physics/LHC4ST/lhc4st.html)
+- [String Theory, Shiraz Minwalla, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/)
+- [Neutrino Physics (Amol Dighe), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PL28B95E11276C75F6)
+- [General Relativity (Sunil Mukhi), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PLB11E80403FB98CFF)
+- [Collection of Physics video lectures](https://futurism.com/ultimate-collection-free-physics-videos/)
+- [Lectures on Geometrical Anatomy of Theoretical Physics, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+- [Lectures on Quantum Theory, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
+- [Physics 121 Spring 2015, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHkn1Jlt0104uNPmpnLFl-G)
+- [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
+- [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
 
-
+## Chemistry
+- [CHEM 125A: FRESHMAN ORGANIC CHEMISTRY I, Yale University](http://oyc.yale.edu/chemistry/chem-125a)
+- [CHEM 125B: FRESHMAN ORGANIC CHEMISTRY II, Yale University](http://oyc.yale.edu/chemistry/chem-125b)
