@@ -6,6 +6,7 @@ Please note this is collection of courses on Science and math, please do not add
 - [8.01 Physics I: Classical Mechanics, Fall 1999, Walter Lewin](http://academictorrents.com/details/f231c62635aadfb0e4d1f45ddc7b5b6c5592b275) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsb2tNcA3gtgOt8LGH6tJbr))
 - [8.02 Physics II: Electricity and Magnetism, Spring 2002, Walter Lewin](http://academictorrents.com/details/7010163eae33fbac6c065095e908c2c49550b931) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu))
 - [8.03 Physics III: Vibrations and Waves, Fall 2004, Walter Lewin](http://academictorrents.com/details/724648552d517756117b47b3a7f5f62962f2629e) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe))
+- [Collection of Physics video lectures](https://futurism.com/ultimate-collection-free-physics-videos/)
 - [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
 - [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/video-lectures/)
 - [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/video-lectures/)
@@ -44,14 +45,21 @@ Please note this is collection of courses on Science and math, please do not add
 - [Quantum Field Theory II, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/qft2/)
 - [LHC for String Theorists, Sunil Mukhi, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~mukhi/Physics/LHC4ST/lhc4st.html)
 - [String Theory, Shiraz Minwalla, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/)
+- [Strings2 (2016) - By Prof. Shiraz Minwalla](https://www.youtube.com/playlist?list=PL3PVFGnaPl_vVwZtJiBkTlKAAjJEfuIaO)
 - [Neutrino Physics (Amol Dighe), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PL28B95E11276C75F6)
 - [General Relativity (Sunil Mukhi), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PLB11E80403FB98CFF)
-- [Collection of Physics video lectures](https://futurism.com/ultimate-collection-free-physics-videos/)
+- [Quantum Space Time Series](https://www.youtube.com/playlist?list=PL3PVFGnaPl_v9hqbPyYWuwfzMKTCzmzZ1)
 - [Lectures on Geometrical Anatomy of Theoretical Physics, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 - [Lectures on Quantum Theory, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
+- [Quantum Field Theory, String Theory and Beyond, Israel Institute for Advanced Studies](https://www.youtube.com/playlist?list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
 - [Physics 121 Spring 2015, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHkn1Jlt0104uNPmpnLFl-G)
 - [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
 - [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
+
+
+## Mathematics
+- [EE230 - Probability and Random Variables, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz)
+
 
 ## Chemistry
 - [CHEM 125A: FRESHMAN ORGANIC CHEMISTRY I, Yale University](http://oyc.yale.edu/chemistry/chem-125a)
