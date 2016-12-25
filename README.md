@@ -56,6 +56,7 @@ Please note this is collection of courses on Science and math, please do not add
 - [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
 - [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
 
+--------------------------------------------------
 
 ## Mathematics
 - [18.01	Single Variable Calculus (Fall 2006) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
@@ -124,7 +125,6 @@ Please note this is collection of courses on Science and math, please do not add
 - [Math 3C Probability for Math Science - UCLA ](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
 - [Math 31A Differential & Integral Calculus, UCLA](https://www.youtube.com/course?list=EC1BE3027EF549C7D1)
 - [Rational Trigonometry--- N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=ECD6BAC8FA4287A3DD)
-- [Real Analysis IIT Madras](https://www.youtube.com/playlist?list=PLbMVogVj5nJSxFihV-ec4A3z_FOGPRCo-)
 - [Statistics 110: Probability - Harvard University](https://www.youtube.com/course?list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Trigonometry - Harrisburg Area Community College](https://itunes.apple.com/us/course/trigonometry/id495049749)
 - [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell - UNSWelearning](https://www.youtube.com/course?list=EC283CA2107AD503A3)
@@ -134,8 +134,51 @@ Please note this is collection of courses on Science and math, please do not add
 - [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A)
 - [EE364B - Convex Optimization II](https://see.stanford.edu/Course/EE364B)
 - [EE230 - Probability and Random Variables, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz)
+* [Advanced Complex Analysis - Part 1:Zeros of Analytic Functions,Analytic continuation, Monodromy, Hyperbolic Geometry and the Reimann Mapping Theorem - IIT Madras](http://nptel.ac.in/courses/111106084/)
+* [Advanced Complex Analysis - Part 2: Compactness of Meromorphic Functions in the Spherical Metric, Spherical Derivative, Normality, Theorems of Marty-Zalcman-Montel-Picard-Royden-Schottky - IIT Madras](http://nptel.ac.in/courses/111106094/)
+* [A Basic Course in Real Analysis - IIT Kharagpur](http://nptel.ac.in/courses/111105069/)
+* [Advanced Engineering Mathematics - IIT Kharagpur](http://nptel.ac.in/courses/111105035/)
+* [Advanced Matrix Theory and Linear Algebra for Engineers - IISC Bangalore](http://nptel.ac.in/courses/111108066/)
+* [An Introduction to Riemann Surfaces and Algebraic Curves: Complex 1-Tori and Elliptic Curves - IIT Madras](http://nptel.ac.in/courses/111106044/)
+* [Applied Multivariate Analysis - IIT Kanpur](http://nptel.ac.in/courses/111104024/)
+* [Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity - IIT Madras](http://nptel.ac.in/courses/111106097/)
+* [Calculus of Variations and Integral Equations - IIT Kanpur](http://nptel.ac.in/courses/111104025/)
+* [Complex Analysis - IIT GUWAHATI](http://nptel.ac.in/courses/111103070/)
+* [Convex Optimization - IIT Kanpur](http://nptel.ac.in/courses/111104068/)
+* [Discrete Mathematics - IIT Roorkee](http://nptel.ac.in/courses/111107058/)
+* [Dynamic Data Assimilation: an introduction - IIT Madras](http://nptel.ac.in/courses/111106082/)
+* [Elementary Numerical Analysis - IIT Bombay](http://nptel.ac.in/courses/111101003/)
+* [Foundations of Optimization - IIT Kanpur](http://nptel.ac.in/courses/111104071/)
+* [Functional Analysis - IIT Kharagpur](http://nptel.ac.in/courses/111105037/)
+* [Linear Algebra - IIT Madras](http://nptel.ac.in/courses/111106051/)
+* [Linear programming and Extensions - IIT Kanpur](http://nptel.ac.in/courses/111104027/)
+* [Mathematical Logic - IIT Madras](http://nptel.ac.in/courses/111106052/)
+* [Measure and Integration - IIT Bombay](http://nptel.ac.in/courses/111101005/)
+* [Applied Multivariate Statistical Modeling - IIT Kharagpur](http://nptel.ac.in/courses/111105091/)
+* [An invitation to mathematics - IIT Madras](http://nptel.ac.in/courses/111106083/)
+* [Basic Calculus for Engineers, Scientists and Economists - IIT Kanpur](http://nptel.ac.in/courses/111104085/)
+* [Curves and Surfaces - IIT Kanpur](http://nptel.ac.in/courses/111104095/)
+* [Differential Calculus in Several Variables - IIT Kanpur](http://nptel.ac.in/courses/111104092/)
+* [Discrete Mathematics - IIT Madras](http://nptel.ac.in/courses/111106086/)
+* [Partial Differential Equations (PDE) for Engineers: Solution by Separation of Variables - IIT Kharagpur](http://nptel.ac.in/courses/111105093/)
+* [Probability and Statistics - IIT Kharagpur](http://nptel.ac.in/courses/111105090/)
+* [Probability and Stochastics for finance - IIT Kanpur](http://nptel.ac.in/courses/111104089/)
+* [Stochastic Processes - 1 - IIT Bombay](http://nptel.ac.in/courses/111102096/)
+* [Numerical methods of Ordinary and Partial Differential Equations - IIT Kharagpur](http://nptel.ac.in/courses/111105038/)
+* [Optimization - IIT Kharagpur](http://nptel.ac.in/courses/111105039/)
+* [Ordinary Differential Equations and Applications - IISC Bangalore](http://nptel.ac.in/courses/111108081/)
+* [Probability and Statistics - IIT Kharagpur](http://nptel.ac.in/courses/111105041/)
+* [Probability Theory and Applications - IIT Kanpur](http://nptel.ac.in/courses/111104079/)
+* [Real Analysis - IIT Madras](http://nptel.ac.in/courses/111106053/)
+* [Regression Analysis - IIT Kharagpur](http://nptel.ac.in/courses/111105042/)
+* [Statistical Inference - IIT Kharagpur](http://nptel.ac.in/courses/111105043/)
+* [Stochastic Processes - IIT Bombay](http://nptel.ac.in/courses/111102014/)
+* [Statistical Methods for Scientists and Engineers - IIT Kharagpur](http://nptel.ac.in/courses/111105077/)
 
+--------------------------------------------------
 
 ## Chemistry
 - [CHEM 125A: FRESHMAN ORGANIC CHEMISTRY I, Yale University](http://oyc.yale.edu/chemistry/chem-125a)
 - [CHEM 125B: FRESHMAN ORGANIC CHEMISTRY II, Yale University](http://oyc.yale.edu/chemistry/chem-125b)
+
+--------------------------------------------------
