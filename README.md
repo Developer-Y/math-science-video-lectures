@@ -7,6 +7,7 @@ Please note this is collection of courses on Science and math, please do not add
 - [8.02 Physics II: Electricity and Magnetism, Spring 2002, Walter Lewin](http://academictorrents.com/details/7010163eae33fbac6c065095e908c2c49550b931) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu))
 - [8.03 Physics III: Vibrations and Waves, Fall 2004, Walter Lewin](http://academictorrents.com/details/724648552d517756117b47b3a7f5f62962f2629e) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe))
 - [Collection of Physics video lectures](https://futurism.com/ultimate-collection-free-physics-videos/)
+- [The Mechanical Universe - Caltech](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
 - [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
 - [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/video-lectures/)
 - [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/video-lectures/)
@@ -69,6 +70,7 @@ Please note this is collection of courses on Science and math, please do not add
 - [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
 - [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
 - [Supersymmetry (University of Cambridge)](https://www.youtube.com/playlist?list=PLGqzsq0erqU44oUApLJPG7stYS6mToTjt)
+ -[Phys 237: Gravitational Waves with Kip Thorne - Caltech](https://www.youtube.com/playlist?list=PLaLOVNqqD-2H-fiiL5Lxmmuhquem-zNIC)
 
 --------------------------------------------------
 
