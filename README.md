@@ -142,7 +142,6 @@ Please note this is collection of courses on Science and math, please do not add
 - [Math702 (Algebraic number theory) - UPenn](https://www.youtube.com/playlist?list=PLS3WLIIQXmMJU2wh0WDLsyMh_evP8m7os)
 - [Math703 (Algebraic number theory II) - UPenn](https://www.youtube.com/playlist?list=PLS3WLIIQXmMLEvNfav1QVRhIKJcBslI7F)
 - [Number Theory of 2015, James Cook - Liberty University](https://www.youtube.com/playlist?list=PLBY4G2o7DhF3dBX7vxpS6b119SyM3S7WJ)
-- [Lectures on Topology and Field Theories - University of Notre Dame]()
 - [UCCS Video Course Archive](http://www.uccs.edu/~math/vidarchive.html) - requires free registration
 - [A first course in Linear Algebra - N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=EC44B6B54CBF6A72DF)
 - [History of Mathematics - N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=EC34B589BE3014EAEB)
@@ -198,7 +197,15 @@ Please note this is collection of courses on Science and math, please do not add
 * [Statistical Inference - IIT Kharagpur](http://nptel.ac.in/courses/111105043/)
 * [Stochastic Processes - IIT Bombay](http://nptel.ac.in/courses/111102014/)
 * [Statistical Methods for Scientists and Engineers - IIT Kharagpur](http://nptel.ac.in/courses/111105077/)
-- [Mathematics 128A - Numerical Analysis, Spring 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVDF1yWNfVhrGF5584gXTz)
+* [Mathematics 128A - Numerical Analysis, Spring 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVDF1yWNfVhrGF5584gXTz)
+* [Algebraic Lie Theory - Cambridge University](https://itunes.apple.com/us/itunes-u/algebraic-lie-theory/id598586973)
+* [Analysis on Graphs and its Applications - Cambridge University](https://itunes.apple.com/us/itunes-u/analysis-on-graphs-and-its-applications/id602063546)
+* [Combinatorics and Statistical Mechanics - Cambridge University](https://itunes.apple.com/us/itunes-u/combinatorics-and-statistical-mechanics/id598588398)
+* [GRASP Lecture Series: Geometry, Representations, and some Physics - The University of Texas at Austin](https://itunes.apple.com/us/itunes-u/grasp-lecture-series-geometry-representations-some/id544303106)
+* [Lectures on Topology and Field Theories - University of Notre Dame](https://itunes.apple.com/us/itunes-u/lectures-on-topology-and-field-theories/id550461916)
+* [Mathematical Analysis - University of Nottingham](https://itunes.apple.com/us/itunes-u/mathematical-analysis/id396420858)
+
+
 
 --------------------------------------------------
 
