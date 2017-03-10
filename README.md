@@ -53,11 +53,15 @@ Please note this is collection of courses on Science and math, please do not add
 - [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
 - [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
 - [Supersymmetry (University of Cambridge)](https://www.youtube.com/playlist?list=PLGqzsq0erqU44oUApLJPG7stYS6mToTjt)
+- [Introduction to Nuclear Physics MIT](https://www.youtube.com/playlist?list=PLOarn8QL6W_LOBTvWwLac5VCxJpkiHa-e)
+- [Tensor Calculus, Multilinear Algebra and Differential Geometry (General Relativity Prerequisites)](https://www.youtube.com/playlist?list=PLtku678e9yj725K6hjLqKhJ854nTWWR5e)
 - [Phys 237: Gravitational Waves with Kip Thorne - Caltech](https://www.youtube.com/playlist?list=PLaLOVNqqD-2H-fiiL5Lxmmuhquem-zNIC)
 
 - **Quantum Physics**
 	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
 	- [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/video-lectures/)
+	- [Quantum Mechanics - Oxford University](https://www.youtube.com/playlist?list=PLOarn8QL6W_ImlqPOMluvxIUx9hkWMiTY)
+	- [Relativistic Quantum Mechanics](https://www.youtube.com/playlist?list=PLOarn8QL6W_L1T2soxwuWNy6XJxrLAG4A)
 
 - **Relativity**
 	- [General Relativity (Sunil Mukhi), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PLB11E80403FB98CFF)
@@ -77,6 +81,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Strings2 (2016) - By Prof. Shiraz Minwalla](https://www.youtube.com/playlist?list=PL3PVFGnaPl_vVwZtJiBkTlKAAjJEfuIaO)
 
 - **Statistical Mechanics**
+	- [Physics 12c Statistical Mechanics - Caltech](https://www.youtube.com/playlist?list=PL0ojjrEqIyPzgJUUW76koGcSCy6OGtDRI)
 	- [8.333 Statistical Mechanics I: Statistical Mechanics of Particles, MIT OCW](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures/)
 	- [8.334 Statistical Mechanics II: Statistical Physics of Fields, MIT OCW](https://ocw.mit.edu/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/video-lectures/)
 	- [Physics 112 - Introduction to Statistical and Thermal Physics, Spring 2012 - UC Berkeley](https://www.youtube.com/playlist?list=PL4986431EE5B122D1)
@@ -105,6 +110,8 @@ Please note this is collection of courses on Science and math, please do not add
   - [18.06SC	Linear Algebra (Fall 2011) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
   - [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv) ([Part 2](https://www.youtube.com/playlist?list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU) [Part 3](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5))
+  - [MATH 3328/2318 Linear Algebra - Lamar](http://www.math.lamar.edu/faculty/maesumi/LinearAlgebra.html)
+  - [Math 220 - Introductory Linear Algebra, Fall 2013 - WSU](http://www.math.wsu.edu/faculty/bkrishna/FilesMath220/F13/LecNotes/welcome.html)
 - **Probability & Statistics**
   - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
   - [Stat 2 - Fall 2006: Introduction to Statistics - UC Berkeley](https://itunes.apple.com/us/itunes-u/stat-2-fall-2006-introduction/id461123197)
