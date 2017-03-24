@@ -58,6 +58,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Introduction to Nuclear Physics MIT](https://www.youtube.com/playlist?list=PLOarn8QL6W_LOBTvWwLac5VCxJpkiHa-e)
 	- [Tensor Calculus, Multilinear Algebra and Differential Geometry (General Relativity Prerequisites)](https://www.youtube.com/playlist?list=PLtku678e9yj725K6hjLqKhJ854nTWWR5e)
 	- [Phys 237: Gravitational Waves with Kip Thorne - Caltech](https://www.youtube.com/playlist?list=PLaLOVNqqD-2H-fiiL5Lxmmuhquem-zNIC)
+	- [The WE-Heraeus International Winter School on Gravity and Light](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 
 - **Quantum Physics**
 	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
