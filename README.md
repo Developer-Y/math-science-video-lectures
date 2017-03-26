@@ -138,6 +138,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [Introduction to Statistics and Data Analysis - University of Michigan](https://itunes.apple.com/us/course/introduction-to-statistics/id577098650)
   - [Math 3C Probability for Math Science - UCLA ](https://www.youtube.com/playlist?list=PL5BE09709EECF36AA)
   - [6.262 Discrete Stochastic Processes - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+  - [DTU: Introduction to Statistics](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FE31HVMLOEapRdKhXAK9gI)
   - [Probability & Statistics with Prof David Spiegelhalter](https://www.youtube.com/playlist?list=PLTBqohhFNBE9jRhvdtnuxj9FiOtDOnqoy)
   
   
