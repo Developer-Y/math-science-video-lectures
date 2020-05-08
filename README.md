@@ -30,7 +30,6 @@ Please note this is collection of courses on Science and math, please do not add
 	  - Particle Physics 3: Supersymmetry and Grand Unification
 	  - String Theory
 	  - Cosmology and Black Holes
-	- [Richard Feynman's Lectures on Physics](https://www.youtube.com/playlist?list=PL_6G_2_0gFDqFjq4gZbmDvJT4bnvnNwr-)
 	- [PHYS 200: FUNDAMENTALS OF PHYSICS I, Yale University](http://oyc.yale.edu/physics/phys-200)
 	- [PHYS 201: FUNDAMENTALS OF PHYSICS II, Yale University](http://oyc.yale.edu/physics/phys-201)
 	- [Physics 3A: Basic Physics (English), UC Irvine](http://ocw.uci.edu/courses/physics_3a_basic_physics.html)
@@ -38,19 +37,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Physics 3C: Basic Physics III (English), UC Irvine](http://ocw.uci.edu/courses/physics_3c_basic_physics_iii.html)
 	- [Physics 255: General Relativity, UC Irvine](http://ocw.uci.edu/courses/einsteins_general_relativity_and_gravitation.html)
 	- [Physics 20B: Cosmology (English), UC Irvine](http://ocw.uci.edu/courses/physics_20b_cosmology.html)
-	- [Physics 8B - Introductory Physics - Melvin Pomerantz, Spring 2015 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDLzEJt081W3hahBzuTX7An)
-	- [Physics 10, 001 - Spring 2006 - UC Berkeley](https://www.youtube.com/playlist?list=PL095393D5B42B2266)
-	- [Physics C10 - Descriptive Introduction to Physics, Spring 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAKxxGD1tIWLS0DcieGLHh0)
-	- [Physics 111 - Advanced Experimentation Lab - UC Berkeley](https://www.youtube.com/playlist?list=PL18E88897D2310BD5)
-	- [Physics 151 - Physics for Future Physicists, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDR8yysdRyQ0NNxdRgnNBNl)
-	- [Physics 253: Quantum Field Theory Lectures by Sidney R. Coleman, Harvard University](https://www.physics.harvard.edu/events/videos/Phys253)
-	- [Quantum Field Theory II, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/qft2/)
-	- [Quantum Field Theory (University of Cambridge)](https://www.youtube.com/playlist?list=PLGqzsq0erqU4nc3E6Ot1bhSYkAUL6xe9u)
 	- [Neutrino Physics (Amol Dighe), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PL28B95E11276C75F6)
-	- [Quantum Space Time Series](https://www.youtube.com/playlist?list=PL3PVFGnaPl_v9hqbPyYWuwfzMKTCzmzZ1)
-	- [Lectures on Geometrical Anatomy of Theoretical Physics, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
-	- [Lectures on Quantum Theory, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
-	- [Quantum Field Theory, String Theory and Beyond, Israel Institute for Advanced Studies](https://www.youtube.com/playlist?list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
 	- [Physics 121 Spring 2015, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHkn1Jlt0104uNPmpnLFl-G)
 	- [Physics 122 Fall 2013, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
 	- [SBCC Physics 123 Spring 2014, Santa Barbara City College](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
@@ -58,24 +45,29 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Introduction to Nuclear Physics MIT](https://www.youtube.com/playlist?list=PLOarn8QL6W_LOBTvWwLac5VCxJpkiHa-e)
 	- [Tensor Calculus, Multilinear Algebra and Differential Geometry (General Relativity Prerequisites)](https://www.youtube.com/playlist?list=PLtku678e9yj725K6hjLqKhJ854nTWWR5e)
 	- [Phys 237: Gravitational Waves with Kip Thorne - Caltech](https://www.youtube.com/playlist?list=PLaLOVNqqD-2H-fiiL5Lxmmuhquem-zNIC)
-	- [The WE-Heraeus International Winter School on Gravity and Light](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
+	
+- **Mathematical Physics**
+	- [Geometric Anatomy of Theoretical Physics - Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+	- [Group Theory and Topology (2017) - By Prof. Gautam Mandal](https://www.youtube.com/playlist?list=PL3PVFGnaPl_vGtZPXvfMo6kkGYj6Hmycs)
 
 - **Quantum Physics**
 	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
 	- [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/video-lectures/)
+	- [Lectures on Quantum Theory, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
 	- [Quantum Mechanics - Oxford University](https://www.youtube.com/playlist?list=PLOarn8QL6W_ImlqPOMluvxIUx9hkWMiTY)
 	- [Relativistic Quantum Mechanics](https://www.youtube.com/playlist?list=PLOarn8QL6W_L1T2soxwuWNy6XJxrLAG4A)
+	- [Physics 253: Quantum Field Theory Lectures by Sidney R. Coleman, Harvard University](https://www.physics.harvard.edu/events/videos/Phys253)
+	- [Quantum Field Theory II, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~minwalla/qft2/)
+	- [Quantum Field Theory (University of Cambridge)](https://www.youtube.com/playlist?list=PLGqzsq0erqU4nc3E6Ot1bhSYkAUL6xe9u)
+	- [Quantum Field Theory, String Theory and Beyond, Israel Institute for Advanced Studies](https://www.youtube.com/playlist?list=PLTn74Qx5mPsT7TKprAtNKZmulHs0qXB1K)
 
 - **Relativity**
 	- [General Relativity (Sunil Mukhi), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PLB11E80403FB98CFF)
+	- [Mathematical and Physical Foundations of General Relativity - Dr.Frederic Schuller](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
+	- [General Relativity (2017) - By Prof. Shiraz Minwalla](https://www.youtube.com/playlist?list=PL3PVFGnaPl_tE-Bh8Vdfp0hDQFMim1b4P)
 
 - **Astronomy/Astrophysics/Cosmology**
 	- [ASTR 160: FRONTIERS AND CONTROVERSIES IN ASTROPHYSICS, Yale University](http://oyc.yale.edu/astronomy/astr-160)
-	- [Astronomy 7B - Introduction to Astrophysics - Professor Joshua Simon Bloom, Spring 2011 - UC Berkeley](https://www.youtube.com/playlist?list=PL69F56882DF6F04B3)
-	- [Astronomy 10 - Introduction to General Astronomy, Fall 2011 - UC Berkeley](https://www.youtube.com/playlist?list=PL2AC754AEB6E21150)
-	- [Astronomy C12 - The Planets - Geoffrey W. Marcy, Fall 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAWhNzFKIy-KkqCcSPKG426)
-	- [Astronomy C13 - Origins: from the Big Bang to the Emergence of Humans, Fall 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iClVCQCE7QTTyI6HsA7ikza)
-	- [Astronomy 250 - Scientific Research Computing with Python, Spring 2012 - UC Berkeley](https://www.youtube.com/playlist?list=PL45D5CCBB5073FDB4)
 	- [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/video-lectures/)
 	
 - **String Theory**
@@ -87,7 +79,6 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Physics 12c Statistical Mechanics - Caltech](https://www.youtube.com/playlist?list=PL0ojjrEqIyPzgJUUW76koGcSCy6OGtDRI)
 	- [8.333 Statistical Mechanics I: Statistical Mechanics of Particles, MIT OCW](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures/)
 	- [8.334 Statistical Mechanics II: Statistical Physics of Fields, MIT OCW](https://ocw.mit.edu/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/video-lectures/)
-	- [Physics 112 - Introduction to Statistical and Thermal Physics, Spring 2012 - UC Berkeley](https://www.youtube.com/playlist?list=PL4986431EE5B122D1)
 	
 --------------------------------------------------
 
