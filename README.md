@@ -65,6 +65,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [General Relativity (Sunil Mukhi), Tata Institute of Fundamental Research](https://www.youtube.com/playlist?list=PLB11E80403FB98CFF)
 	- [Mathematical and Physical Foundations of General Relativity - Dr.Frederic Schuller](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 	- [General Relativity (2017) - By Prof. Shiraz Minwalla](https://www.youtube.com/playlist?list=PL3PVFGnaPl_tE-Bh8Vdfp0hDQFMim1b4P)
+	- [General Relativity 2019 - Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ)
 
 - **Astronomy/Astrophysics/Cosmology**
 	- [ASTR 160: FRONTIERS AND CONTROVERSIES IN ASTROPHYSICS, Yale University](http://oyc.yale.edu/astronomy/astr-160)
@@ -79,6 +80,10 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Physics 12c Statistical Mechanics - Caltech](https://www.youtube.com/playlist?list=PL0ojjrEqIyPzgJUUW76koGcSCy6OGtDRI)
 	- [8.333 Statistical Mechanics I: Statistical Mechanics of Particles, MIT OCW](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures/)
 	- [8.334 Statistical Mechanics II: Statistical Physics of Fields, MIT OCW](https://ocw.mit.edu/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/video-lectures/)
+	
+- **Particle Physics**
+	- [Particle Physics 2018 - Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwylijo0yfs3xUN9ad6-YZjPLT)
+	- [Nuclear and Particle Physics - IIT Guwahati](https://www.youtube.com/playlist?list=PL0b6maW-5d1fvnUXykaaD0JPjEB0pTDF9)
 	
 --------------------------------------------------
 
