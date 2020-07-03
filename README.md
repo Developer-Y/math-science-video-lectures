@@ -49,6 +49,9 @@ Please note this is collection of courses on Science and math, please do not add
 - **Mathematical Physics**
 	- [Geometric Anatomy of Theoretical Physics - Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 	- [Group Theory and Topology (2017) - By Prof. Gautam Mandal](https://www.youtube.com/playlist?list=PL3PVFGnaPl_vGtZPXvfMo6kkGYj6Hmycs)
+	- [Mathematical Physics - Carl Bender](http://pirsa.org/index.php?p=speaker&name=Carl_Bender)
+	- [Physics - Selected Topics in Mathematical Physics - IIT Madras](https://www.youtube.com/playlist?list=PLbMVogVj5nJRhl_6TUGChpnt2Lg0AZvZu)
+	- [Mathematics methods in Physics-I - NPTEL](https://www.youtube.com/playlist?list=PLDZKFoLcAWeVBBK-kXa4HLxhChI-kH3q4)
 
 - **Quantum Physics**
 	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
