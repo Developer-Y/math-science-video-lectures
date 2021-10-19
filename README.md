@@ -92,7 +92,7 @@ Please note this is collection of courses on Science and math, please do not add
 
 ## Mathematics
 
-- [Mathematics 10B - Methods of Mathematics: Calculus, Statistics and Combinatorics, Spring 2014 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X)
+- [Mathematics 10B - Methods of Mathematics: Calculus, Statistics and Combinatorics, Spring 2014 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCZ8sTG0pDuBubsDfOFoY2X?sort=titleSorter)
 - **Calculus**
   - [18.01	Single Variable Calculus (Fall 2006) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
   - [Calculus Revisited: Single Variable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
