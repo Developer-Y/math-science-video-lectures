@@ -259,6 +259,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Vector Calculus and Partial Differential Equations (Math 3140) - UoU](https://www.youtube.com/playlist?list=PLkfmuPOLLnthHE9ICNdGgdgIi16-M80ZS)
 	- [01325 Mathematics 4 Real Analysis F13](http://www2.mat.dtu.dk/education/01325/overview.htm)
 	- [MATH 676: Finite element methods in scientific computing - TAMU](http://www.math.colostate.edu/~bangerth/videos.html)
+	- [18.102: Introduction to Functional Analysis - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
 	- [Mathematics - Foundations of Pure Mathematics - University of Nottingham](https://www.youtube.com/playlist?list=PLpRE0Zu_k-BzsKBqQ-HEqD6WVLIHSNuXa)
 	- [Mathematics - Functional Analysis - University of Nottingham](https://www.youtube.com/playlist?list=PL554B877A872B4F94)
 	- [Topology & Geometry by Dr Tadashi Tokieda](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
