@@ -73,6 +73,21 @@ Please note this is collection of courses on Science and math, please do not add
 - **Astronomy/Astrophysics/Cosmology**
 	- [ASTR 160: FRONTIERS AND CONTROVERSIES IN ASTROPHYSICS, Yale University](http://oyc.yale.edu/astronomy/astr-160)
 	- [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/video-lectures/)
+ 	- [Intro to Astronomy Sessions by PhysicistMichael](https://www.youtube.com/playlist?list=PLQzpF6G7qUZATmrabrBhIDX_33jfCeHBR)
+	- [Introduction to Astronomy](https://www.youtube.com/playlist?list=PLaNkJORnlhZnk88O1iYMYDARqKYcgZI80)
+	- [Introductory Summer School in Astronomy and Astrophysics - 2021](https://www.youtube.com/playlist?list=PL-_8NowFBWIGvri0TpVGNjJiuhwrRSXBv)
+	- [Astronomy and Astrophysics - An Introductory Survey, A lecture series by Prof. G. Srinivasan](https://www.youtube.com/playlist?list=PLgg-_kzDkaSFS4JwgDaifTQcYcVSqMBfu)
+	- [Radio Astronomy Winter School (RAWS) 2020](https://www.youtube.com/playlist?list=PL3jLiVc5sr3MrtRHwaGIWVRlRGa_JIdWI)
+	- [SPPU Introductory astronomy and astrophysics](https://www.youtube.com/playlist?list=PL3jLiVc5sr3N3Pbs02ymppCyHpzzPwvg_)
+	- [Summer Course 2019: Neutron Stars and Black Holes](https://www.youtube.com/playlist?list=PLGPVdP6VvPFtJGfOtYf_K75fjgX6KWsQy)
+	- [Summer Course 2018: A Random Walk In Astro-physics](https://www.youtube.com/playlist?list=PLGPVdP6VvPFsexo8Fxzfb8Fbb5ZvjiG6e)
+	- [Astrophysics & Cosmology](https://www.youtube.com/playlist?list=PLbMVogVj5nJROKq6v6sZq74sjty86dAQ2)
+	- [Fall 2016 Course: Analytical Methods & Applications to Astrophysics & Astronomy](https://www.youtube.com/playlist?list=PLUG23RFb_6Kfyi-ED96FEFQofjrVIb5PK)
+
+ - **Computational Physics**
+   	- [Computational Physics Course in Python, Rutgers 2021](https://www.youtube.com/playlist?list=PLXmUYdQdC9IGv61Y1lhGBH0NsDQRdwcJE)
+	- [Landau Computational Physics Course](https://www.youtube.com/playlist?list=PLnWQ_pnPVzmJnp794rQXIcwJIjwy7Nb2U)
+	- [SPARC Workshop on Machine Learning in Solar Physics and Space Weather](https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE_ZNni)
 	
 - **String Theory**
 	- [LHC for String Theorists, Sunil Mukhi, Tata Institute of Fundamental Research](http://theory.tifr.res.in/~mukhi/Physics/LHC4ST/lhc4st.html)
