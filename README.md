@@ -210,6 +210,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Trigonometry - Harrisburg Area Community College](https://itunes.apple.com/us/course/trigonometry/id495049749)
 	- [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell - UNSWelearning](https://www.youtube.com/course?list=EC283CA2107AD503A3)
 	- [Videos of Probability and Statistics Courses - compiled by Dr. M. Hlynka, University of Windsor](http://web2.uwindsor.ca/math/hlynka/statcourses.html)
+	- [Dynamical Systems and Ergodic Theory - Spring 2024 - ETH Zürich](https://video.ethz.ch/lectures/d-math/2024/spring/401-2374-24L/4e2c6b6a-71c6-4ca7-a1c1-608227e65d65.html)
 	- [18.103 - Fourier Analysis: Theory and Applications - MIT](https://www.youtube.com/playlist?list=PLIygTcviGPKBMyjct4h5QLNBWxIeglSMA)
 	- [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261)
 	- [EE263 - Introduction to Linear Dynamical Systems](https://see.stanford.edu/Course/EE263)
