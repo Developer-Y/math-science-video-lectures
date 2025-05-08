@@ -115,7 +115,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [18.02 Multivariable Calculus (Fall 2007) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
   - [Calculus Revisited: Multivariable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/)
   - [Mathematics 16B - Analytic Geometry and Calculus Professor Thomas Scanlon, Fall 2011 - UC Berkeley](https://www.youtube.com/playlist?list=PL4A471683B59198A7)
-  - [Mathematics 53 Multivariable Calculus - UC Berkeley](https://www.youtube.com/view_play_list?p=07CF868151394FE3)
+  - [Mathematics 53 Multivariable Calculus - UC Berkeley](https://math.berkeley.edu/~pkoroteev/math53.html)
   - [18.03	Differential Equations (Spring 2010) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
   - [Highlights of Calculus, Gilbert Strang - MIT OCW](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
   - [Mathematics 16A Analytic Geometry and Calculus, Fall 2011 - UCBerkeley](https://www.youtube.com/view_play_list?p=B7EDD5D491072A6E)
