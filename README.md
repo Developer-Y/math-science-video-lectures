@@ -126,6 +126,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [Calculus III: Multivariable Calculus (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28)
   - [Calculus - University of Houston](https://online.math.uh.edu/HoustonACT/videocalculus/)
   - [Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra - MIT OCW](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/)
+  - [Mathematics 1A - Calculus, Alexander Paulin, Fall 2019 - UC Berkeley](https://math.berkeley.edu/~apaulin/1A_001%20(Fall%202019).html)
   - [Math 31A Differential & Integral Calculus, UCLA](https://www.youtube.com/course?list=EC1BE3027EF549C7D1)
   - [Math 1210, Calculus 1 - University of Utah](https://www.math.utah.edu/lectures/math1210.html)
   - [Math 1220, Calculus 2 - University of Utah](https://www.math.utah.edu/lectures/math1220.html)
