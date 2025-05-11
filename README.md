@@ -111,7 +111,7 @@ Please note this is collection of courses on Science and math, please do not add
 - **Calculus**
   - [18.01	Single Variable Calculus (Fall 2006) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
   - [Calculus Revisited: Single Variable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
-  - [Mathematics 16A - Analytic Geometry and Calculus, Thomas Scanlon, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk)
+  - [Mathematics 16A - Analytic Geometry and Calculus, Thomas Scanlon, Fall 2013 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk?sort=title)
   - [18.02 Multivariable Calculus (Fall 2007) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
   - [Calculus Revisited: Multivariable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/)
   - [Mathematics 16B - Analytic Geometry and Calculus Professor Thomas Scanlon, Fall 2011 - UC Berkeley](https://www.youtube.com/playlist?list=PL4A471683B59198A7)
