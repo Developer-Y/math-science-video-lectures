@@ -262,7 +262,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Statistical Inference - IIT Kharagpur](http://nptel.ac.in/courses/111105043/)
 	- [Stochastic Processes - IIT Bombay](http://nptel.ac.in/courses/111102014/)
 	- [Statistical Methods for Scientists and Engineers - IIT Kharagpur](http://nptel.ac.in/courses/111105077/)
-	- [Mathematics 128A - Numerical Analysis, Spring 2014 - UC Berkeley](http://persson.berkeley.edu/math128a/lecture_videos.html)
+	- [Mathematics 128A - Numerical Analysis, Spring 2014 - UC Berkeley](http://persson.berkeley.edu/mathW128A/lecture_videos.html)
 	- [Algebraic Lie Theory - Cambridge University](https://itunes.apple.com/us/itunes-u/algebraic-lie-theory/id598586973)
 	- [Analysis on Graphs and its Applications - Cambridge University](https://itunes.apple.com/us/itunes-u/analysis-on-graphs-and-its-applications/id602063546)
 	- [Combinatorics and Statistical Mechanics - Cambridge University](https://itunes.apple.com/us/itunes-u/combinatorics-and-statistical-mechanics/id598588398)
