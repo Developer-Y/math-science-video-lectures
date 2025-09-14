@@ -282,7 +282,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [01325 Mathematics 4 Real Analysis F13](http://www2.mat.dtu.dk/education/01325/overview.htm)
 	- [MATH 676: Finite element methods in scientific computing - TAMU](http://www.math.colostate.edu/~bangerth/videos.html)
 	- [CS 198-087: Introduction to Mathematical Thinking - UC Berkeley](http://imt-decal.org)
- 	- [Introduction to Mathematical Thinking - Standford Online](https://www.youtube.com/watch?v=LN7cCW1rSsI)
+ 	- [Introduction to Mathematical Thinking - Stanford Online](https://www.youtube.com/watch?v=LN7cCW1rSsI)
 	- [18.102: Introduction to Functional Analysis - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
 	- [Mathematics - Foundations of Pure Mathematics - University of Nottingham](https://www.youtube.com/playlist?list=PLpRE0Zu_k-BzsKBqQ-HEqD6WVLIHSNuXa)
 	- [Mathematics - Functional Analysis - University of Nottingham](https://www.youtube.com/playlist?list=PL554B877A872B4F94)
