@@ -10,11 +10,11 @@ Please note this is collection of courses on Science and math, please do not add
 	- [8.03 Physics III: Vibrations and Waves, Fall 2004, Walter Lewin](http://academictorrents.com/details/724648552d517756117b47b3a7f5f62962f2629e) ([YouTube](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe))
 	- [Collection of Physics video lectures](https://futurism.com/ultimate-collection-free-physics-videos/)
 	- [The Mechanical Universe - Caltech](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
-	- [8.421 Atomic and Optical Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-421-atomic-and-optical-physics-i-spring-2014/video-lectures/)
-	- [8.422 Atomic and Optical Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-422-atomic-and-optical-physics-ii-spring-2013/video-lectures/)
+	- [8.421 Atomic and Optical Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-421-atomic-and-optical-physics-i-spring-2014/)
+	- [8.422 Atomic and Optical Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-422-atomic-and-optical-physics-ii-spring-2013/)
 	- [8.821 String Theory and Holographic Duality, MIT OCW](https://ocw.mit.edu/courses/physics/8-821-string-theory-and-holographic-duality-fall-2014/)
-	- [8.851 Effective Field Theory, MIT OCW](https://ocw.mit.edu/courses/physics/8-851-effective-field-theory-spring-2013/video-lectures/)
-	- [The Theoretical Minimum, Leonard Susskind, Stanford University](http://theoreticalminimum.com/courses) ([YouTube - All lectures in order](https://www.youtube.com/playlist?list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8)), courses:
+	- [8.851 Effective Field Theory, MIT OCW](https://ocw.mit.edu/courses/physics/8-851-effective-field-theory-spring-2013/)
+	- [The Theoretical Minimum, Leonard Susskind, Stanford University](http://theoreticalminimum.com/courses) ([YouTube - All lectures in order](https://www.youtube.com/watch?v=pyX8kQ-JzHI&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)), courses:
 	  - Classical Mechanics
 	  - Quantum Mechanics
 	  - Special Relativity and Electrodynamics
@@ -54,8 +54,8 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Mathematics methods in Physics-I - NPTEL](https://www.youtube.com/playlist?list=PLDZKFoLcAWeVBBK-kXa4HLxhChI-kH3q4)
 
 - **Quantum Physics**
-	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/)
-	- [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/video-lectures/)
+	- [8.04 Quantum Physics I, MIT OCW](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/)
+	- [8.05 Quantum Physics II, MIT OCW](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/)
 	- [Lectures on Quantum Theory, Fredric Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
 	- [Quantum Mechanics - Oxford University](https://www.youtube.com/playlist?list=PLOarn8QL6W_ImlqPOMluvxIUx9hkWMiTY)
 	- [Relativistic Quantum Mechanics](https://www.youtube.com/playlist?list=PLOarn8QL6W_L1T2soxwuWNy6XJxrLAG4A)
@@ -72,7 +72,7 @@ Please note this is collection of courses on Science and math, please do not add
 
 - **Astronomy/Astrophysics/Cosmology**
 	- [ASTR 160: FRONTIERS AND CONTROVERSIES IN ASTROPHYSICS, Yale University](http://oyc.yale.edu/astronomy/astr-160)
-	- [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/video-lectures/)
+	- [8.286 The Early Universe](https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/)
  	- [Intro to Astronomy Sessions by PhysicistMichael](https://www.youtube.com/playlist?list=PLQzpF6G7qUZATmrabrBhIDX_33jfCeHBR)
 	- [Introduction to Astronomy](https://www.youtube.com/playlist?list=PLaNkJORnlhZnk88O1iYMYDARqKYcgZI80)
 	- [Introductory Summer School in Astronomy and Astrophysics - 2021](https://www.youtube.com/playlist?list=PL-_8NowFBWIGvri0TpVGNjJiuhwrRSXBv)
@@ -96,8 +96,8 @@ Please note this is collection of courses on Science and math, please do not add
 
 - **Statistical Mechanics**
 	- [Physics 12c Statistical Mechanics - Caltech](https://www.youtube.com/playlist?list=PL0ojjrEqIyPzgJUUW76koGcSCy6OGtDRI)
-	- [8.333 Statistical Mechanics I: Statistical Mechanics of Particles, MIT OCW](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/video-lectures/)
-	- [8.334 Statistical Mechanics II: Statistical Physics of Fields, MIT OCW](https://ocw.mit.edu/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/video-lectures/)
+	- [8.333 Statistical Mechanics I: Statistical Mechanics of Particles, MIT OCW](https://ocw.mit.edu/courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)
+	- [8.334 Statistical Mechanics II: Statistical Physics of Fields, MIT OCW](https://ocw.mit.edu/courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
 	
 - **Particle Physics**
 	- [Particle Physics 2018 - Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwylijo0yfs3xUN9ad6-YZjPLT)
@@ -112,7 +112,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [18.01	Single Variable Calculus (Fall 2006) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
   - [Calculus Revisited: Single Variable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
   - [Mathematics 16A - Analytic Geometry and Calculus, Thomas Scanlon, Fall 2013 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk?sort=title)
-  - [18.02 Multivariable Calculus (Fall 2007) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+  - [18.02 Multivariable Calculus (Fall 2007) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
   - [Calculus Revisited: Multivariable Calculus - MIT OCW](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/)
   - [Mathematics 16B - Analytic Geometry and Calculus Professor Alexander Paulin, Spring 2023 - UC Berkeley](https://math.berkeley.edu/~apaulin/16B%20(Spring%202023).html)
   - [Mathematics 16B - Analytic Geometry and Calculus Professor Thomas Scanlon, Fall 2011 - UC Berkeley](https://www.youtube.com/playlist?list=PL4A471683B59198A7)
