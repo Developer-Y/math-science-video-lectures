@@ -194,6 +194,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [MATH-501 Real Analysis - I](http://courses.bilkent.edu.tr/course_videos.php?courseid=12) ([Another link](http://video.bilkent.edu.tr/regenerated_pages/Mathematics_ms.html))
 	- [Real Analysis - Harvey Mudd College](https://www.youtube.com/playlist?list=PL04BA7A9EB907EDAF)
 	- [18.100A (Real Analysis) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
+	- [18.100B (Real Analysis) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG)
 	- [Math312 (Linear algebra) - UPenn](https://www.youtube.com/playlist?list=PLS3WLIIQXmMJ2bO_YS1r0UFW2XRRGqUUL)
 	- [Math340 (Homological algebra) - UPenn](https://www.youtube.com/playlist?list=PLS3WLIIQXmMLvfY5NOfWRs55x_H4lRTpj)
 	- [Math350 (Number theory) - UPenn](https://www.math.upenn.edu/~ted/350F14/hw-350SchedTab.html) ([YouTube](https://www.youtube.com/playlist?list=PLS3WLIIQXmMJ5Dd-vu_ST6ll3PH7Co2S8))
