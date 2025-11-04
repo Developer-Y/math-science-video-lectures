@@ -132,6 +132,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [Math 1220, Calculus 2 - University of Utah](https://www.math.utah.edu/lectures/math1220.html)
   - [Math 2210, Calculus 3 - University of Utah](https://www.math.utah.edu/lectures/math2210.html)
   - [Math 241, Calculus III - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJIsBu4MzsxNnX4Qzsayukra)
+  - [Math 246, Differential Equations for Engineers - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJKgJXRKXKObYFH_JdWTubU-)
   - [MA 107 Precalculus I - NCSU](https://courses.ncsu.edu/ma107/common/media/MA107Lectures.html)
   - [MA 121 Elements of Calculus - NCSU](https://courses.ncsu.edu/ma121/common/media/MA121lectures.html)
   - [MA 141 Calculus I - NCSU](https://www.math.ncsu.edu/calculus/web/MA141lectures.html)
