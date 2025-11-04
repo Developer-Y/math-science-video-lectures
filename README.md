@@ -182,6 +182,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Geometric Representation Theory Seminar - Fall 2007 - UC Riverside](http://math.ucr.edu/home/baez/qg-fall2007/)
 	- [Morse Theory: UGA 2012](https://www.youtube.com/playlist?list=PL48612E5AEB587038)
 	- [Lie Groups 2012, University of Utrecht](http://webmovies.science.uu.nl/WISM414/)
+	- [MATH 274: History of Mathematics - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJLlIbuiN9e0ndoPY1IIsz03)
 	- [MATH 406: Number Theory - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJLz8MjNqoDUE5n6kOlxRRkb)
 	- [MATH 430: Euclidean and Non-Euclidean Geometry - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJJ5XWkPJi-CyY_ABx_gIKR9)
 	- [MATH 463: Complex Variables - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJI8S01bmUC1ef53KbTA0FSf)
