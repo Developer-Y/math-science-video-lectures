@@ -143,6 +143,8 @@ Please note this is collection of courses on Science and math, please do not add
 - **Linear Algebra**
   - [18.06SC	Linear Algebra (Fall 2011) - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
   - [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
+  - [MATH 401: Applications of Linear Algebra - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJLL-sTuDoIetoxYnyqCDWmG)
+  - [MATH 461: Linear Algebra for Scientists and Engineers - University of Maryland](https://www.youtube.com/playlist?list=PL7RK4EsMAcJJ-lk42AMBsUTz9DFG5SDRv)
   - [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv) ([Part 2](https://www.youtube.com/playlist?list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU) [Part 3](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5))
   - [A first course in Linear Algebra - N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=EC44B6B54CBF6A72DF)
   - [MATH 3328/2318 Linear Algebra - Lamar](http://www.math.lamar.edu/faculty/maesumi/LinearAlgebra.html)
