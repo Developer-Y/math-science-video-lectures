@@ -149,6 +149,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [A first course in Linear Algebra - N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=EC44B6B54CBF6A72DF)
   - [MATH 3328/2318 Linear Algebra - Lamar](http://www.math.lamar.edu/faculty/maesumi/LinearAlgebra.html)
   - [Math 220 - Introductory Linear Algebra, Fall 2013 - WSU](http://www.math.wsu.edu/faculty/bkrishna/FilesMath220/F13/LecNotes/welcome.html)
+  - [Math 6643 - Numerical Linear Algebra, Fall 2023 - Georgia Tech](https://www.youtube.com/playlist?list=PLIygTcviGPKAztEv6ASGbOgHO33hLfVS4)
   - [Basic Linear Algebra - LadislauFernandes](https://www.youtube.com/playlist?list=PLWbnIo7XnOkz1hBLdv_0LwcdwUjvoZL5s)
 - **Probability & Statistics**
   - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
