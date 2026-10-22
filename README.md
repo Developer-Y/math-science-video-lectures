@@ -315,6 +315,7 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Math 603 - Abstract Algebra (Spring 2014)](https://www.math.upenn.edu/~ted/603S14/hw-603SchedTab.html)
 	- [Math 108 - Introduction to Abstract Mathematics (Winter 2021) - Eric Babson - UC Davis](https://www.math.ucdavis.edu/~babson/MAT108/index_108-W21.html)
 	- [Math 151 - Finite Mathematics (Fall 2023) - Jonathan Noel - University of Victoria](https://www.youtube.com/playlist?list=PLtxJg53s2o0Mk87lsAQyx9ObyJN6O6jfH)
+	- [MAT 007 - Introduction to computer algebra and mathematical programming (Fall 2022) - Dr. Johannes Schmitt - University of Zurich](https://johannesschmitt.gitlab.io/mat007/index.html)
 
 
 
