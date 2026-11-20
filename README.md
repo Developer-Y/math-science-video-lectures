@@ -149,6 +149,7 @@ Please note this is collection of courses on Science and math, please do not add
   - [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv) ([Part 2](https://www.youtube.com/playlist?list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU) [Part 3](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5))
   - [A first course in Linear Algebra - N J Wildberger - UNSWelearning](https://www.youtube.com/course?list=EC44B6B54CBF6A72DF)
   - [MATH 3328/2318 Linear Algebra - Lamar](http://www.math.lamar.edu/faculty/maesumi/LinearAlgebra.html)
+  - [Math 115B - Linear Algebra, Fall 2022 - UCLA](https://www.youtube.com/playlist?list=PL54Pt_mZzBqinpMAO6-o1vEzZzzPKx57c)
   - [Math 220 - Introductory Linear Algebra, Fall 2013 - WSU](http://www.math.wsu.edu/faculty/bkrishna/FilesMath220/F13/LecNotes/welcome.html)
   - [Math 318 - Advanced Linear Algebra Tools and Applications, Spring 2021 - WSU](https://www.youtube.com/playlist?list=PLoxJTbDttvt4p6zPSy_0zURsJV1kDCqw1)
   - [Math 340 - Abstract Linear Algebra, Summer 2020 - WSU](https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ)
